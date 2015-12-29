@@ -1,7 +1,7 @@
-package com.how2code.designpattern.factorypattern;
+package com.how2code.designpattern.factory;
 
-import com.how2code.designpattern.factorypattern.entity.ProgrammingLanguage;
-import com.how2code.designpattern.factorypattern.factory.LanguageFactory;
+import com.how2code.designpattern.factory.entity.ProgrammingLanguage;
+import com.how2code.designpattern.factory.factory.LanguageFactory;
 
 public class Main {
 

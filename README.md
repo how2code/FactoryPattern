@@ -8,7 +8,7 @@ The "LanguageFactory" creates an object of type "ProgrammingLanguage" in accordi
 
 The Main.java is the executor of example.
 
-The output of this example is
+## The output is
 
 Hi all, I'm Java and I say "Hello World!"
 Hi all, I'm C and I say "Hello World!"

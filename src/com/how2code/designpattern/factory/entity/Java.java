@@ -1,4 +1,4 @@
-package com.how2code.designpattern.factorypattern.entity;
+package com.how2code.designpattern.factory.entity;
 
 public class Java implements ProgrammingLanguage {
 
